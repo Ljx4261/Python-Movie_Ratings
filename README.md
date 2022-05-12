@@ -1,4 +1,4 @@
-# Crime-Analysis-in-Boston-
+# Movie Ratings Recommendations
 <h1 align="center">Hi 👋, I'm Jessie</h1>
 <h3 align="center">A passionate data scientist</h3>
 
